@@ -1,0 +1,132 @@
+
+.container {
+    height: 100svh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(204, 43%, 93%);
+}
+
+.card {
+    height: 480px;
+    width: 630px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.top-card {
+    height: 215px;
+    background-color: white;
+}
+
+.titel {
+    margin-left: 36px;
+    margin-top: 42px;
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.ben {
+    margin-left: 36px;
+    color:hsl(71, 73%, 54%);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.info {
+    margin-left: 36px;
+    color: rgba(0, 0, 0, 0.50);
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.left-card {
+    height: 265px;
+    flex: 1;
+    background-color: hsl(179, 62%, 43%);
+}
+
+.sub {
+    margin-left: 38px;
+    margin-top: 38px;
+    color: white;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.price {
+    margin-left: 38px;
+    margin-top: 19px;
+    color: #F5F5F5;
+}
+
+.num {
+    color: white;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.fullp {
+    margin-left: 38px;
+    margin-top: 5px;
+    color: white;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.btn {
+    margin-left: 38px;
+    margin-top: 27px;
+    background-color: hsl(71, 73%, 54%);
+    width: 235px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+
+.right-card {
+    height: 265px;
+    flex: 1;
+    background-color: hsl(179, 62%, 55%);
+}
+
+.s1 {
+    margin-left: 40px;
+    margin-top: 46px;
+    color: white;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.s2 {
+    margin-left: 40px;
+    margin-top: 19px;
+    color: #F5F5F5;
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
